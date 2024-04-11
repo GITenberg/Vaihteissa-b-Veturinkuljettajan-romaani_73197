@@ -1,0 +1,31 @@
+_repo: Vaihteissa-b-Veturinkuljettajan-romaani_73197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tervas, Mikko
+    alias: Tervaskari, Mikko
+    birthdate: 1883
+    deathdate: 1937
+    gutenberg_agent_id: '48636'
+    url: http://www.gutenberg.org/2009/agents/48636
+    wikipedia: https://fi.wikipedia.org/wiki/Mikko_Tervas
+description: ''
+gutenberg_issued: '2024-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73197'
+language: fi
+pgterms:marc905: 20220621092937tervas
+pgterms:marc906: '1921'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aOulu :$bPohjolan Kustannus-Osakeyhtiö, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: 'Vaihteissa : $b Veturinkuljettajan romaani'
+url: http://www.gutenberg.org/ebooks/73197
